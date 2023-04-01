@@ -1,2 +1,2 @@
-# HomeTash1-Epam
-just a basic webpage
+# HomeTask1-Epam
+just a basic webpage on news blog
